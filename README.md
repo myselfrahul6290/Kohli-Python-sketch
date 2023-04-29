@@ -1,9 +1,8 @@
 # Kohli-Python-sketch
 
-<object width="425" height="350">
-  <param name="movie" value="https://youtu.be/x4T8FTxol38" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://youtu.be/x4T8FTxol38"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
+
+    <iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
